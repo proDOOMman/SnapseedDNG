@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SnapseedDNG</string>
+    <string name="snapseed_open_error">Can\'t open Snapseed!</string>
+</resources>
